@@ -6,4 +6,4 @@ This feature will be used to enhance the reading ability of speakers. It will re
 
 
 Screenshot
-![Screenshot 1](example_1.jpg)
+<img src="example_1.jpg" width="300" height="600">
